@@ -9,4 +9,4 @@ A custom-coded, responsive promotional storefront email built from scratch for *
 
 ## ✅ Testing & Compatibility
 * Structured to support major email clients including **Gmail, Apple Mail, Outlook, and Yahoo Mail**.
-* Tested across desktop and mobile viewports to ensure clean image scaling and touch-friendly call-to-action (CTA) buttons.
+* Tested across desktop and mobile viewports to ensure clean image scaling.
